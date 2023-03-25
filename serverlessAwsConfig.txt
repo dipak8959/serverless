@@ -1,0 +1,8 @@
+serverless config credentials --provider aws --key  AKIASICYFV5N5LJXT44M --secret 
+  
+  
+$ aws configure
+AWS Access Key ID [None]: 
+AWS Secret Access Key [None]: 
+Default region name [None]: us-west-2
+Default output format [None]: ENTER
