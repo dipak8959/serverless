@@ -1,4 +1,4 @@
-serverless config credentials --provider aws --key  AKIASICYFV5N5LJXT44M --secret 
+serverless config credentials --provider aws --key --secret 
   
   
 $ aws configure
